@@ -27,7 +27,7 @@
 
 ### ⚙️ DevOps & Infrastructure
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)]([https://pve.proxmox.com/pve-docs/](https://www.proxmox.com/en/))
+[![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)](https://pve.proxmox.com/pve-docs/](https://www.proxmox.com/en/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 
 ---
